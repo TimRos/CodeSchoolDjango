@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeSchoolDjango.iml" filepath="$PROJECT_DIR$/.idea/CodeSchoolDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main_app/static/.idea/static.iml" filepath="$PROJECT_DIR$/main_app/static/.idea/static.iml" />
     </modules>
   </component>
 </project>
